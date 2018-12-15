@@ -2,7 +2,7 @@
 
 Quick layout in Fritzing so I could plan out how I was going to hook things up...
 
-![Breadboard](https://raw.githubusercontent.com/pgodwin/LC-SCSI/master/Fritzing/Fritzing%20Layout_bb.svg)
+![Breadboard](https://raw.githubusercontent.com/pgodwin/LC-SCSI/master/Fritzing/Fritzing%20Layout_bb.png)
 
 ## Fritzing Notes
 I've decided Fritzing isn't for me. It's slow, buggy, and lacks simple features.
