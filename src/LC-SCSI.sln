@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LCSCSI-STM32", "LCSCSI-STM32\LCSCSI-STM32.vcxproj", "{601A04C3-1445-4040-BA83-C55F39B2BF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601A04C3-1445-4040-BA83-C55F39B2BF8B}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{601A04C3-1445-4040-BA83-C55F39B2BF8B}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{601A04C3-1445-4040-BA83-C55F39B2BF8B}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{601A04C3-1445-4040-BA83-C55F39B2BF8B}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746F8944-5321-43A7-9999-688673067E99}
+	EndGlobalSection
+EndGlobal
